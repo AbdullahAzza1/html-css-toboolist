@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(230, 230, 230);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    height: 70px;
+    
+}
+#Logo {
+    margin: 10px;
+    margin-left: 20px;
+}
+#titolo {
+    display: inline;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav  {
+    margin: 4% 25%;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-top-left-radius: 3px;
+}
