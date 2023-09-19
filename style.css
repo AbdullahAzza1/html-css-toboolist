@@ -18,9 +18,24 @@ header{
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-nav  {
-    margin: 4% 25%;
+main {
+    margin: 4% 20%;
     background-color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-top-left-radius: 3px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+nav button{
+    background-color: #47A9E8 ;
+    color: white;
+    border-radius: 7px;
+    border: 0;
+}
+
+section{
+    margin: 50px;
+}
+
+   td {
+    width: 30px;
 }
