@@ -12,6 +12,7 @@ header{
 #Logo {
     margin: 10px;
     margin-left: 20px;
+    vertical-align:top;
 }
 #titolo {
     display: inline;
@@ -25,9 +26,32 @@ main {
     border-top-right-radius: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;   
 }
-nav button{
+#pulsante{
     background-color: #47A9E8 ;
     color: white;
+    border-radius: 7px;
+    border: 0;    
+    padding: 10px;
+    margin: 10px 10px 0 50px;
+}
+.pulsante2{
+    display:inline;
+    width: 50%;
+    
+}
+
+.ciao{
+     background-color: #47A9E8 ;
+    color: white;
+    border-radius: 7px;
+    border: 0;    
+    padding: 7px;
+    margin: 10px 10px 0 10px;
+    display: inline;
+}
+
+nav button{
+    padding: 10px;
     border-radius: 7px;
     border: 0;
 }
